@@ -1,0 +1,6 @@
+﻿Reference Designator,Quantity,Name,Description,Package,Mouser Number
+"IC1, IC2, IC3, IC4",4,SN74ACT574,8-bit D flip flop,DIP20,595-SN74ACT564N 
+"IC5, IC6, IC7, IC8",4,SN74HC164,8-bit Parallel out shift register,DIP14,595-SN74HC164NE4 
+IC9,1,SN74HC125,Quad 3-state buffer,DIP14,595-SN74AHC125NE4 
+J1,1,JST_B6B-XH-A,"6 bit JST connector, 2.50 mm",N/A,N/A
+"J2,J3,J4,J5",4,JST_B8B-XH-A,"8 bit JST connector, 2.50 mm",N/A,N/A

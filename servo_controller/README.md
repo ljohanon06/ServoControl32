@@ -2,6 +2,8 @@
 This is the documentation for the servo controller module. To explore the PCB that goes along with this code, go to the hardware folder of the github below.
 To learn how the project works go to the main README in the github. This README is just for the code and for how to configure it.
 
+This code can only run on ESP32 chips that include RMT 2.0, this is ESP32S2, ESP32S3, and ESP32C3 as of this version. If you have a chip that supports the RMT 2.0 (with the sync manager) add your chip to idf_component.yml. 
+
 [ServoControl Github](https://github.com/ljohanon06/ServoControl/)
 
 ---
@@ -48,5 +50,11 @@ servo_set_servo(handle,31,180);
 ---
 
 ## Importing
+
+
+## License
+This project is licensed under the MIT License.  
+© 2025 Levi Johanon. See the LICENSE file for details.
+
 
 

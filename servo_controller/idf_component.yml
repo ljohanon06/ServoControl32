@@ -3,6 +3,7 @@
 version: "1.0.0"
 description: "32 servo controller"
 url: "https://github.com/ljohanon06/ServoControl"
+license: "MIT"
 dependencies:
   idf: 
     version: ">=5.5"

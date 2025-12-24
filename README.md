@@ -26,10 +26,9 @@ The ESP32 code begins by calculating how long each servo needs to stay on based 
   <img src="docs/Media/PCB_Image.png" width="800">
 </p>
 
-## 
+## Usage
+In order to use, make the PCB using the information in the hardware file, follow the instructions involving the ESP32 code in the servo_controller file, and put it all together. Have fun and good luck.
 
-
-
-
-
-
+## License
+This project is licensed under the MIT License.  
+© 2025 Levi Johanon. See the LICENSE file for details.

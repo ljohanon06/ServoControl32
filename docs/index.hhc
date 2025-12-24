@@ -28,32 +28,35 @@
   <UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html#top"><param name="ImageNumber" value="1"></OBJECT>
     <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_d44c64559bbebec7f509842c48db8b23.html"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller"><param name="Local" value="dir_101ae156c4a40cfdba9b5cf3c752cdb6.html"><param name="ImageNumber" value="1"></OBJECT>
       <UL>
-      <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller.h"><param name="Local" value="servo__controller_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="include"><param name="Local" value="dir_5f6c4d045c7ac397025db60a8e1b50bc.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller_config_t"><param name="Local" value="structservo__controller__config__t.html"><param name="ImageNumber" value="1"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller.h"><param name="Local" value="servo__controller_8h.html"><param name="ImageNumber" value="1"></OBJECT>
           <UL>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="clk_gpio"><param name="Local" value="structservo__controller__config__t.html#a2dfc3fe0c699353f4fdfc932302ca4da"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="pulse_gpio"><param name="Local" value="structservo__controller__config__t.html#a27f36f5750db652e73dd85bf18b3e894"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="serv_pres"><param name="Local" value="structservo__controller__config__t.html#aeeeb8159d392fff4d7db528146bbe647"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo1_gpio"><param name="Local" value="structservo__controller__config__t.html#a1048039ffc4d44284b2fa28824c5115a"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo2_gpio"><param name="Local" value="structservo__controller__config__t.html#a4ffab3171395657ddf388ebdf51bee5d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller_config_t"><param name="Local" value="structservo__controller__config__t.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="clk_gpio"><param name="Local" value="structservo__controller__config__t.html#a2dfc3fe0c699353f4fdfc932302ca4da"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="pulse_gpio"><param name="Local" value="structservo__controller__config__t.html#a27f36f5750db652e73dd85bf18b3e894"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="serv_pres"><param name="Local" value="structservo__controller__config__t.html#aeeeb8159d392fff4d7db528146bbe647"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="servo1_gpio"><param name="Local" value="structservo__controller__config__t.html#a1048039ffc4d44284b2fa28824c5115a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="servo2_gpio"><param name="Local" value="structservo__controller__config__t.html#a4ffab3171395657ddf388ebdf51bee5d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller_handle_t"><param name="Local" value="servo__controller_8h.html#a833a45042c89a9b84520028388d859f8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_precision_t"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_50"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40abce9745ff1258fcfa2139367b0016c5c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_100"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40ad373dc5bd1f733a49af3d4c26877e814"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_200"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40afb5df966562386b590d3a2fc091f29ad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_500"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40a9cc0408a126c5f233855bc0598804c31"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_initialize_controller"><param name="Local" value="servo__controller_8h.html#abfe085ca47df3df22790f79c211ae409"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_remove_controller"><param name="Local" value="servo__controller_8h.html#a8db72d0e71542ac17ea94e88738cc6e6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_set_all"><param name="Local" value="servo__controller_8h.html#a1c10c992dfd3191aac013195ee1c0c00"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_set_servo"><param name="Local" value="servo__controller_8h.html#a02809e5e51794ed3e8dd2504bdf87d39"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_start"><param name="Local" value="servo__controller_8h.html#a6cf3490f7bb111cc6bb498ce6b3d9d7c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_stop"><param name="Local" value="servo__controller_8h.html#a32ce788b8858d2b28b7e2fc76d4d8b82"><param name="ImageNumber" value="11"></OBJECT>
           </UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_controller_handle_t"><param name="Local" value="servo__controller_8h.html#a833a45042c89a9b84520028388d859f8"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_precision_t"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40"><param name="ImageNumber" value="1"></OBJECT>
-          <UL>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_50"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40abce9745ff1258fcfa2139367b0016c5c"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_100"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40ad373dc5bd1f733a49af3d4c26877e814"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_200"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40afb5df966562386b590d3a2fc091f29ad"><param name="ImageNumber" value="11"></OBJECT>
-          <LI><OBJECT type="text/sitemap"><param name="Name" value="SERVO_PRECISION_500"><param name="Local" value="servo__controller_8h.html#ae83717368e7c47f4e6f870f3a5431e40a9cc0408a126c5f233855bc0598804c31"><param name="ImageNumber" value="11"></OBJECT>
-          </UL>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_initialize_controller"><param name="Local" value="servo__controller_8h.html#abfe085ca47df3df22790f79c211ae409"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_remove_controller"><param name="Local" value="servo__controller_8h.html#a8db72d0e71542ac17ea94e88738cc6e6"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_set_all"><param name="Local" value="servo__controller_8h.html#a1c10c992dfd3191aac013195ee1c0c00"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_set_servo"><param name="Local" value="servo__controller_8h.html#a02809e5e51794ed3e8dd2504bdf87d39"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_start"><param name="Local" value="servo__controller_8h.html#a6cf3490f7bb111cc6bb498ce6b3d9d7c"><param name="ImageNumber" value="11"></OBJECT>
-        <LI><OBJECT type="text/sitemap"><param name="Name" value="servo_stop"><param name="Local" value="servo__controller_8h.html#a32ce788b8858d2b28b7e2fc76d4d8b82"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
       </UL>
     </UL>

@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
-/*
+/**
+ * @file servo_controller.h
+ * @brief Public header file for servo_controller
  * © 2025 Levi Johanon. All rights reserved.
  * See LICENSE for details.
  */

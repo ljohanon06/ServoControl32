@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
-/*
+/**
+ * @file servo_internal.h
+ * @brief Header folder for internal functions necessary for servo controller
  * © 2025 Levi Johanon. All rights reserved.
  * See LICENSE for details.
  */

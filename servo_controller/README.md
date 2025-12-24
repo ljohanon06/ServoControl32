@@ -7,7 +7,10 @@ To learn how the project works go to the main README in the github. This README 
 ---
 
 ## Coding
-This is how to code the servo_controller. To see the code documentation involving all the arguments and return values of the functions, please view the
+This is how to code the servo_controller. To see the code documentation involving all the arguments and return values of the functions,
+please view the html documentation at the link below.
+
+[Servo_Controller Documentation]([google.com](https://ljohanon06.github.io/ServoControl/servo__controller_8h.html))
 ### Config Struct
 
 ### Intialization and Starting
@@ -19,3 +22,4 @@ This is how to code the servo_controller. To see the code documentation involvin
 ---
 
 ## Importing
+

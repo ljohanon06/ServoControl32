@@ -50,11 +50,12 @@ servo_set_servo(handle,31,180);
 ---
 
 ## Importing
-
+In order to import this project to your ESP-IDF component, first create a components folder and drop the entire servo_controller folder in there. In your CMakeLists.txt for you main, add "REQUIRES servo_controller" and in a new line "set(EXTRA_COMPONENT_DIRS components)". Then in your main add "#include "servo_controller.h". Then you are free to use. Feel free to check out the CMakeLists.txt in the example. This component will soon be uploaded to the ESP-IDF component registry for easy use.
 
 ## License
 This project is licensed under the MIT License.  
 © 2025 Levi Johanon. See the LICENSE file for details.
+
 
 
 
